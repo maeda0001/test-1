@@ -1,5 +1,6 @@
 var urlsToCache = [
     "index.html",
+    "onlinefake.html",
     "offline.html"
 ];
 
