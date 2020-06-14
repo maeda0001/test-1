@@ -2,7 +2,6 @@ CACHE MANIFEST
 # version: 1.0.0
 
 CACHE:
-ajax-loader.gif
 
 FALLBACK:
 /online.html /onlinefake.html
